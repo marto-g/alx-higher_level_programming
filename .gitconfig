@@ -1,3 +1,5 @@
 [user]
 	email = gathimartin@gmail.com
 	name = marto-g
+[push]
+	default = matching
